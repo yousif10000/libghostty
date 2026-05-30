@@ -9,7 +9,7 @@ jobs:
       
       - name: install Zig
         run: |
-          brew install zig@0.15.2
+          brew install zig@0.15
 
       - name: get libghostty
         run: |
